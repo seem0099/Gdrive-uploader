@@ -1,0 +1,1 @@
+{"web":{"client_id":"1081150686704-8ovtlvpfv8he29cinp6onmqf0kjjkm5q.apps.googleusercontent.com","project_id":"level-choir-323716","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"-6JwWGjsl57pafExqdAsZVPg"}}
